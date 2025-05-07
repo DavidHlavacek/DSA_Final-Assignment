@@ -12,7 +12,7 @@ javac -d build src/**/*.java
 java -cp build Main
 ```
 
-## Running Tutorial
+## How to use
 
 1. Launch the application
 2. Click "Load CSV File" and select your data file
