@@ -1,6 +1,6 @@
 # DSA Application - David Hlavacek - 5094879
 
-This is final assignment for the module Data Structures and Algorithms.
+This is the final assignment for the module Data Structures and Algorithms.
 
 ## Running from Command Line
 
